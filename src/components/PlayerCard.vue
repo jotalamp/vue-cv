@@ -80,7 +80,6 @@ onMounted(() => {
     font-family: Verdana, sans-serif;
     color: hsl(210, 100%, 80%);
     position: relative;
-    background-image: url("../assets/spectrum-gradient.svg");
     background-size: cover;
     background-image: radial-gradient(circle, hsl(210, 100%, 40%) 0%, hsl(210, 90%, 10%) 100%);
     position: relative;
