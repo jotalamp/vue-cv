@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Football Cards 5</h1>
+        <h1>Football Cards 3</h1>
         <input type="text" v-model="inpName">
         <button @click="addPlayer(player(inpName))">Add</button>
         <button @click="removePlayer">Remove random</button>
